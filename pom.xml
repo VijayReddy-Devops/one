@@ -52,7 +52,7 @@
 				<version>3.4.0</version> <!-- or latest stable -->
 			</plugin>
 		</plugins>
-		<build>
+<build>
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
